@@ -75,7 +75,8 @@ function findDrink() {
             drinkName.innerText = `${name}`;
             drinkType.innerText = `${type}`;
             drinkImage.src = `${photo}`;
-            drinkInstructions.innerText = `${instructions}`
+            drinkImage.alt = `Image of ${drink}`;
+            drinkInstructions.innerText = `${instructions}`;
 
             // Make Visible
             const drinkBasics = document.querySelector('.basics');
