@@ -1,0 +1,10 @@
+/* Boiler Plate Set Up */
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: 'Times New Roman', Times, serif;
+}
