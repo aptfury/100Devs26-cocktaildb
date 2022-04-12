@@ -9,10 +9,11 @@ Ignore me, it just helps me to have this here.
 - [x] Area to Display Information w/ Cleaner Design (Name, Type, Ingredients, Photo (link to photo to be lazy?), Instructions, maybe more?)
 
 ###### CSS
-- [ ] Build Out CSS for Search Box & Butotn
-- [ ] Build Out CSS for Information Display
+- [x] Build Out CSS for Search Box & Butotn
+- [x] Build Out CSS for Information Display
 
 ###### JavaScript
+- [ ] Set Drink Information to Display Once Content
 - [ ] Fetch API & Return Data
 - [ ] Decide Which Specific Pieces of Data to Use
 - [ ] Manipulate DOM to Display Data Appropriately
