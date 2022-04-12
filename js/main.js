@@ -78,7 +78,7 @@ function findDrink() {
             drinkImage.alt = `Image of ${drink}`;
             drinkInstructions.innerText = `${instructions}`;
 
-            // Make Visible
+            // Toggle Visibility: On
             const drinkBasics = document.querySelector('.basics');
             const drinkData = document.querySelector('.information');
 
@@ -97,7 +97,7 @@ function clearDrink() {
     const drinkList = document.querySelector('ul');
     drinkList.innerHTML = '';
 
-    // Make Visible
+    // Toggle Visibility: Off
     const drinkBasics = document.querySelector('.basics');
     const drinkData = document.querySelector('.information');
 
