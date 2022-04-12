@@ -17,3 +17,10 @@ Ignore me, it just helps me to have this here.
 - [x] Fetch API & Return Data
 - [x] Decide Which Specific Pieces of Data to Use
 - [x] Manipulate DOM to Display Data Appropriately
+
+### Psuedo-Code for JS
+- Extract data from first drink matching search keyword
+- Push data to DOM
+- If hide is active on element, deactivate after data population
+- If searchbox is clicked to enter new keyword, clear data and make hide active on necessary elements
+- Clear out list items in ul so they don't stack

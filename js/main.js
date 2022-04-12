@@ -1,16 +1,3 @@
-/*
- * PSUEDO CODE
- * Fetch first drink listed from search
- * If a drink exists, toggle display to make drink content visible
- * Pull Drink Name
- * Pull Drink Type
- * Pull Drink Photo
- * Pull Drink Ingredients
- * Pull Drink Ingredient Ammounts
- * Pull Drink Instructions
- * Push Drink Content to DOM
-*/
-
 document.querySelector('.btn').addEventListener('click', findDrink);
 document.querySelector('.srchbar').addEventListener('click', clearDrink);
 
