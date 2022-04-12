@@ -51,6 +51,8 @@ h1 {
     display: inline-block;
 }
 
+/* Drink Information */
+
 .basics {
     width: 600px;
     margin: auto;
@@ -98,6 +100,8 @@ h3 {
 .information ul {
     font-style: italic;
 }
+
+/* Hide Toggle */
 
 .hide {
     display: none;
