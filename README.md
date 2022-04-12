@@ -5,8 +5,8 @@
 Ignore me, it just helps me to have this here.
 
 ###### HTML
-- [ ] Text Input & Button for Search Feature
-- [ ] Area to Display Information w/ Cleaner Design (Name, Type, Ingredients, Photo (link to photo to be lazy?), Instructions, maybe more?) (Table, maybe?)
+- [x] Text Input & Button for Search Feature
+- [x] Area to Display Information w/ Cleaner Design (Name, Type, Ingredients, Photo (link to photo to be lazy?), Instructions, maybe more?)
 
 ###### CSS
 - [ ] Build Out CSS for Search Box & Butotn
