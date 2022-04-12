@@ -13,10 +13,7 @@ Ignore me, it just helps me to have this here.
 - [x] Build Out CSS for Information Display
 
 ###### JavaScript
-- [ ] Set Drink Information to Display Once Content
-- [ ] Fetch API & Return Data
-- [ ] Decide Which Specific Pieces of Data to Use
-- [ ] Manipulate DOM to Display Data Appropriately
-
-###### Push?
-- [ ] Create an Automated Carousel to Hold Search Results
+- [x] Set Drink Information to Display Once Content
+- [x] Fetch API & Return Data
+- [x] Decide Which Specific Pieces of Data to Use
+- [x] Manipulate DOM to Display Data Appropriately
